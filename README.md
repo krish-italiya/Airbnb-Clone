@@ -42,7 +42,7 @@ Follow the instructions below to get the project up and running on your local ma
 3.Set up the environment variables:
   - Create a .env file in the server directory.
   - Add the following environment variables and replace the values with your own:
-       -MONGO_URL=your_mongodb_uri
+    > MONGO_URL=your_mongodb_uri
 
 
 
